@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.interview.springboot.rest.controller.EnrollemntControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.236 s - in com.interview.springboot.rest.controller.EnrollemntControllerIntegrationTest
